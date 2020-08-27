@@ -6,9 +6,10 @@
   height: 100vh;
 }
 .main {
+  font-family: sans-serif;
   color: white;
   background-color: transparent;
-  border: 2px solid white;
+  border: 4px solid white;
   padding: 15px;
   width: max-content;
 }
